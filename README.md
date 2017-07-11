@@ -25,3 +25,7 @@ long)
   * [ResNet-101](https://arxiv.org/pdf/1512.03385.pdf)
 
 * [Tensorflow Object Detection API example](https://cloud.google.com/blog/big-data/2017/06/training-an-object-detector-using-cloud-machine-learning-engine)
+
+### Models
+* Python ([dlib](http://dlib.net/))
+  * [dlib-models](https://github.com/davisking/dlib-models)
