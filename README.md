@@ -36,3 +36,8 @@ long)
 ### Models
 * Python ([dlib](http://dlib.net/))
   * [dlib-models](https://github.com/davisking/dlib-models)
+  
+### Others
+
+* [Beyond Skip Connections: Top-Down Modulation for Object Detection](https://arxiv.org/pdf/1612.06851.pdf)
+* [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf)
