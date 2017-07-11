@@ -41,3 +41,10 @@ long)
 
 * [Beyond Skip Connections: Top-Down Modulation for Object Detection](https://arxiv.org/pdf/1612.06851.pdf)
 * [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf)
+* [Blog: Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
+
+## Face recognition
+
+### Models
+
+* [Python: OpenFace](http://cmusatyalab.github.io/openface/)
