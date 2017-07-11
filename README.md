@@ -49,6 +49,10 @@ long)
 
 ## Face recognition
 
+### Dataset
+
+* [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/): Faces dataset
+
 ### Feature extractor
 
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf): Directly learns a mapping from face images to a compact Euclidean space where distances directly correspond to a measure of face similarity. The benefit of this approach is much greater representational efficiency: they achieve state-of-the-art face recognition performance using only 128-bytes per face.
