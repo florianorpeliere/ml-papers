@@ -11,9 +11,9 @@
 <br>List of feature extractor
   * [Inception Resnet V2](https://arxiv.org/pdf/1602.07261.pdf): Deep convolutional networks. [Blog article](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
   * [Inception architecture v3](https://arxiv.org/pdf/1512.00567.pdf): Deep convolutional networks. [TensorFlow Github code](https://github.com/tensorflow/models/blob/master/slim/nets/inception_v3.py)
-  * VGG-16
+  * [VGG-16](https://arxiv.org/pdf/1409.1556.pdf)
   * [MobileNet](https://arxiv.org/pdf/1704.04861.pdf)
-  * Inception V2
+  * [Inception V2](https://arxiv.org/pdf/1502.03167.pdf)
   * [ResNet-101](https://arxiv.org/pdf/1512.03385.pdf)
 
 * [Tensorflow Object Detection API example](https://cloud.google.com/blog/big-data/2017/06/training-an-object-detector-using-cloud-machine-learning-engine)
