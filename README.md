@@ -10,6 +10,12 @@
 * [YouTube-BoundingBoxes: A Large High-Precision
 Human-Annotated Data Set for Object Detection in Video](https://arxiv.org/pdf/1702.00824.pdf): New large-scale data set of video URLs with densely-sampled object bounding box annotations. (Approximately 380,000 video segments about 19s
 long)
+* [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions](https://arxiv.org/pdf/1705.08421.pdf): New video dataset. Every person is localized using a bounding box and the attached labels correspond to actions being performed by the person. There is one action corresponding to the **pose of the person** (whether he or she is standing, sitting, walking, swimming etc.) and there may be additional actions corresponding to **interactions with objects** or **human-human interactions**. The main differences with existing video datasets are: 
+  * the definition of atomic visual actions, which avoids collecting data for each and every complex action
+  * precise spatio-temporal annotations with possibly multiple annotations for each human
+  * the use of diverse, realistic video material (movies)
+
+
 
 ### Meta-architecture & feature extractor
   
