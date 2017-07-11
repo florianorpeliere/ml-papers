@@ -29,6 +29,7 @@ long)
   * [MobileNet](https://arxiv.org/pdf/1704.04861.pdf)
   * [Inception V2](https://arxiv.org/pdf/1502.03167.pdf)
   * [ResNet-101](https://arxiv.org/pdf/1512.03385.pdf)
+* [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/pdf/1612.02297.pdf): This paper proposes a deep learning architecture based on Residual Network that dynamically adjusts the number of executed layers for the regions of the image. 
 
 * [Tensorflow Object Detection API example](https://cloud.google.com/blog/big-data/2017/06/training-an-object-detector-using-cloud-machine-learning-engine)
 
